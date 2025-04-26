@@ -1,0 +1,2 @@
+num = int(input('Insira um número para a tabuada\n'))
+print(f'A tabuada do número {num} é\n1x{num}={num*1}\n\n2x{num}={num*2}\n\n3x{num}={num*3}\n\n4x{num}={num*4}\n\n5x{num}={num*5}\n\n6x{num}={num*6}\n\n7x{num}={num*7}\n\n8x{num}={num*8}\n\n9x{num}={num*9}\n\n10x{num}={num*10}\n')
